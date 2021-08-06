@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/tours/static/css/main.82d83267.chunk.css",
-    "main.js": "/tours/static/js/main.7636e05c.chunk.js",
-    "main.js.map": "/tours/static/js/main.7636e05c.chunk.js.map",
+    "main.js": "/tours/static/js/main.fde32d08.chunk.js",
+    "main.js.map": "/tours/static/js/main.fde32d08.chunk.js.map",
     "runtime-main.js": "/tours/static/js/runtime-main.772f5ee5.js",
     "runtime-main.js.map": "/tours/static/js/runtime-main.772f5ee5.js.map",
     "static/css/2.fb17aa6d.chunk.css": "/tours/static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.30ee34f3.chunk.js": "/tours/static/js/2.30ee34f3.chunk.js",
-    "static/js/2.30ee34f3.chunk.js.map": "/tours/static/js/2.30ee34f3.chunk.js.map",
+    "static/js/2.24c81ba6.chunk.js": "/tours/static/js/2.24c81ba6.chunk.js",
+    "static/js/2.24c81ba6.chunk.js.map": "/tours/static/js/2.24c81ba6.chunk.js.map",
     "index.html": "/tours/index.html",
     "static/css/2.fb17aa6d.chunk.css.map": "/tours/static/css/2.fb17aa6d.chunk.css.map",
     "static/css/main.82d83267.chunk.css.map": "/tours/static/css/main.82d83267.chunk.css.map",
-    "static/js/2.30ee34f3.chunk.js.LICENSE.txt": "/tours/static/js/2.30ee34f3.chunk.js.LICENSE.txt",
+    "static/js/2.24c81ba6.chunk.js.LICENSE.txt": "/tours/static/js/2.24c81ba6.chunk.js.LICENSE.txt",
     "static/media/concert1.1ca58689.jpg": "/tours/static/media/concert1.1ca58689.jpg",
     "static/media/App.css": "/tours/static/media/concert5.cfcc19b0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.772f5ee5.js",
     "static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.30ee34f3.chunk.js",
+    "static/js/2.24c81ba6.chunk.js",
     "static/css/main.82d83267.chunk.css",
-    "static/js/main.7636e05c.chunk.js"
+    "static/js/main.fde32d08.chunk.js"
   ]
 }
